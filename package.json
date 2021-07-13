@@ -29,9 +29,9 @@
     "start": "tsc && concurrently -k -r \"tsc --watch --preserveWatchOutput\" \"wds\""
   },
   "name": "better-setup-mic",
-  "version": "0.0.0",
-  "description": "Webcomponent better-setup-mic following open-wc recommendations",
-  "author": "better-setup-mic",
+  "version": "0.0.1",
+  "description": "A website dedicated to helping you get the best out of your audio setup",
+  "author": "@jlengrand",
   "license": "MIT",
   "dependencies": {
     "lit": "^2.0.0-rc.2"
