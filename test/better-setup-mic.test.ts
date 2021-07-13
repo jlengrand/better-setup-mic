@@ -1,6 +1,6 @@
 import { html, fixture, expect } from '@open-wc/testing';
 
-import { BetterSetupMic } from '../src/BetterSetupMic.js';
+import { BetterSetupMic } from '../src/better-setup-mic.js';
 import '../src/better-setup-mic.js';
 
 describe('BetterSetupMic', () => {
